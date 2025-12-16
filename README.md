@@ -1,2 +1,2 @@
 # Python_Calculator
-A simple Python calculator project for beginners using loops and conditionals.
+A simple Python calculator project using loops and conditionals.
